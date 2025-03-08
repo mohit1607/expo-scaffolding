@@ -7,6 +7,7 @@ const TabHome = () => {
         <View>
             <Text>TabHome</Text>
             <Link href='/about'>Go to about page</Link>
+            
         </View>
     )
 }
